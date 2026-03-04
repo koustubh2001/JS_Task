@@ -1,5 +1,4 @@
- //Task -1
-
+//Task -1
 // let name = "Koustubh";
 // let age = 25;
 // let city = "Bangalore";
@@ -7,7 +6,7 @@
 // console.log("I am " + age + " years old.");
 // console.log("I am from " + city + ".");
 
- // Task -2
+// Task -2
 // let userName = prompt("Enter your name:"); 
 // alert("Welcome, " + userName + "!"); 
 // let choice = confirm("Do you want to learn JavaScript?");
@@ -15,7 +14,7 @@
 //     alert("Great Choice!");
 // } else {
 //     alert("No Problem!");
-// }
+//}
 
 // Task -3 
 // let myString = "Hello World!";
@@ -82,5 +81,6 @@
 // }; 
 // console.log("Blueberry:", fruits.berries[1]);
 // console.log("Mango:", fruits.tropical[0]);
-// console.log("Lemon:", fruits.citrus[1]); 
+// console.log("Lemon:", fruits.citrus[1]);
 // console.log("Total Categories:", Object.keys(fruits).length);
+
