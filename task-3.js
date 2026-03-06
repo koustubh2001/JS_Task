@@ -374,7 +374,7 @@ console.log("Sum of numbers in array:", total);
 // Section-8 – For In  (Object)
 //1. Create object student with name, age, department. Print all values.
 let student = {
-    name: "John",
+    name: "Koustubh",
     age: 22,
     department: "Computer Science"
 };
