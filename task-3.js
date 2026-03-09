@@ -371,6 +371,7 @@
 
 // //----------------------------------------------------------------------------------------------
 
+<<<<<<< HEAD
 // // Section-8 – For In  (Object)
 // //1. Create object student with name, age, department. Print all values.
 // let student = {
@@ -381,6 +382,18 @@
 // for (let key in student) {
 //     console.log(student[key]);
 // }
+=======
+// Section-8 – For In  (Object)
+//1. Create object student with name, age, department. Print all values.
+let student = {
+    name: "Koustubh",
+    age: 22,
+    department: "Computer Science"
+};
+for (let key in student) {
+    console.log(student[key]);
+}
+>>>>>>> 73942771e393929c1bc696f07db79cb8014ebbb0
 
 // //2.Print all keys of an object using for in
 // let employee = {
